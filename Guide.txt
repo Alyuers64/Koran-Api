@@ -1,0 +1,2 @@
+Open on your xampp/htdocs/Koran Api
+Open with localhost on browser
